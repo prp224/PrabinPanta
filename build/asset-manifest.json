@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PrabinPanta/static/css/main.950d0746.css",
+    "main.js": "/PrabinPanta/static/js/main.d62b1c95.js",
+    "static/js/787.77117327.chunk.js": "/PrabinPanta/static/js/787.77117327.chunk.js",
+    "static/media/Headshot.png": "/PrabinPanta/static/media/Headshot.b26e3d24419f2edbf518.png",
+    "static/media/logo.png": "/PrabinPanta/static/media/logo.0ba87a7abc386105b824.png",
+    "static/media/prabin_soccer3.jpg": "/PrabinPanta/static/media/prabin_soccer3.acc2a89a2c71138bf3d5.jpg",
+    "static/media/prabin_soccer2.jpg": "/PrabinPanta/static/media/prabin_soccer2.4321c3de327dab92e091.jpg",
+    "static/media/sunset.jpeg": "/PrabinPanta/static/media/sunset.a8c0e1f6944287f61bcf.jpeg",
+    "static/media/lehigh.JPG": "/PrabinPanta/static/media/lehigh.142ddffac573aab9f240.JPG",
+    "static/media/prabin_soccer1.jpg": "/PrabinPanta/static/media/prabin_soccer1.61a9d1d9931e7cf6ae8e.jpg",
+    "static/media/tihar.jpeg": "/PrabinPanta/static/media/tihar.bc43dce5b4bbfdba245e.jpeg",
+    "static/media/soccer1.jpeg": "/PrabinPanta/static/media/soccer1.b76de15d81ddba495dfd.jpeg",
+    "static/media/coverPhoto.jpeg": "/PrabinPanta/static/media/coverPhoto.cf5d79660d1a8831dda5.jpeg",
+    "static/media/fam1.jpeg": "/PrabinPanta/static/media/fam1.76ef70ccc0db7285c8a5.jpeg",
+    "static/media/naruto.jpg": "/PrabinPanta/static/media/naruto.e73d7a0e8816ce9b3b86.jpg",
+    "static/media/logo.svg": "/PrabinPanta/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/PrabinPanta/index.html",
+    "main.950d0746.css.map": "/PrabinPanta/static/css/main.950d0746.css.map",
+    "main.d62b1c95.js.map": "/PrabinPanta/static/js/main.d62b1c95.js.map",
+    "787.77117327.chunk.js.map": "/PrabinPanta/static/js/787.77117327.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.950d0746.css",
+    "static/js/main.d62b1c95.js"
+  ]
+}

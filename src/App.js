@@ -11,12 +11,17 @@ import Club from './components/clubs'
 
 function App() {
   return (
-    
+
     <div className="App">
       <Navbar />
     <Router>
         <Routes>
-          <Route path="/" exact element = {
+          <Route exact path='/'  element = {
+            <>
+            <Cover />
+            </>
+          }></Route>
+          <Route exact path='/PrabinPanta'  element = {
             <>
             <Cover />
             </>
